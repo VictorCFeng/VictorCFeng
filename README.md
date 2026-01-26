@@ -1,2 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VictorFengC)
-[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=TbS8BeALaPhzWnZXgjoSm0nzIKPp-7hU0y30CU5ZjEg&cl=ffffff)](https://clustrmaps.com/site/1c91s)
+![Visitors](https://komarev.com/ghpvc/?username=VictorFengC)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorFengC&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorFengC&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFengC&layout=compact&theme=vision-friendly-dark)
